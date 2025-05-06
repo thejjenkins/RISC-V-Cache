@@ -6,7 +6,7 @@
 // Due 05/06/2025
 //  
 // James Jenkins, PhD student, Elec. Engr., Howard University
-// Chase ...
+// Chase Adams, undergraduate, Comp. Engr., Howard University
 // Instructor: Hassan Salmani, PhD.
 //////////////////////////////////////////////////////////////////////////////////
 
